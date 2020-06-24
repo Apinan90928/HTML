@@ -1,2 +1,5 @@
+/*default*/
 <Input name="userName" type = "text">
  
+/*asp.net*/
+<input asp-for = "UName" type = "text">
