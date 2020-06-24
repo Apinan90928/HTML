@@ -1,1 +1,5 @@
-<form Action = "/Home/??" method = "post"> </form>
+/*default*/
+<form Action = "/Home/Page2" method = "post"> </form>
+
+/*asp.net*/
+<form asp-Action = "page2" method = "post"> </form>
