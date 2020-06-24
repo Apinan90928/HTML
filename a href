@@ -1,0 +1,1 @@
+<a href="@Url.Action("Page2","Home")"> Page2 </a>
